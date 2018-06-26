@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Android\\Android_Code\\hotel\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\Android\\Android_Code\\hotel\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android\\Android_Code\\hotel\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\hotel.jpg",
+        "source": "E:\\Android\\Android_Code\\hotel\\app\\src\\main\\res\\mipmap-hdpi\\hotel.jpg"
+    },
+    {
+        "merged": "E:\\Android\\Android_Code\\hotel\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\log.jpg",
+        "source": "E:\\Android\\Android_Code\\hotel\\app\\src\\main\\res\\mipmap-hdpi\\log.jpg"
+    }
+]
